@@ -1133,14 +1133,14 @@ section,
   ABOUT        
 -----------------------------------------*/
 .about-p{
-  font-size: 18px;
+  font-size: 20px;
   font-weight: normal;
   color: #353131
 
 }
 
 .about-p-text{
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   color: #424040
   
@@ -1237,12 +1237,32 @@ section,
 
 
 /*---------------------------------------
+  Project         
+-----------------------------------------*/
+
+.project-textstatus{
+  font-size: 14px;
+  color: #fcfeff;
+}
+
+.project-text-de{
+  font-size: 14px;
+}
+
+.project-text{
+  font-size: 18px;
+  color:#202020;
+}
+
+
+/*---------------------------------------
   Training Team     
 -----------------------------------------*/
 
   /*color fontteam*/
 .pad-text{
     font-size: 16px;
+    font-weight: normal;
     color: #0f1316;
     text-align: center;
 }
@@ -1271,6 +1291,12 @@ section,
 .margin-bot{
   margin-bottom: 5px;
 }
+
+.textcolor-p{
+  font-size: 20px;
+  /* color: #0d6efd; */
+}
+
 
 
 
@@ -1323,6 +1349,15 @@ section,
   margin-right: 15px;
 }
 
+.add-text{
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.add-text-bold{
+  font-size: 16px;
+  line-height: 1.5;
+}
 
 
 /*--------------------------------------------------------------
