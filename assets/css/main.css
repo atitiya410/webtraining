@@ -1303,7 +1303,10 @@ section,
 }
 
 
-
+.shadow-lg {
+  -webkit-box-shadow: 0 5px 20px rgba(52, 58, 64, 0.2) !important;
+          box-shadow: 0 5px 20px rgba(52, 58, 64, 0.2) !important;
+}
 
 
 /*---------------------------------------
@@ -3273,7 +3276,3 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
-
-
-
-
